@@ -1,0 +1,14 @@
+.Increase{
+  background-color:green;
+  color: azure;
+  margin-right: 0.5%;
+}
+.Decrease{
+  background-color:red;
+  color: azure;
+
+}
+
+.division{
+  text-align: center;
+}
